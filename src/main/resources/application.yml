@@ -1,0 +1,8 @@
+spring.application.name:
+  docker-proj
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/test
+    username: root
+    password: Zz8825057
+    driver-class-name: com.mysql.cj.jdbc.Driver
